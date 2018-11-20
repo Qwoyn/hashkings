@@ -77,7 +77,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Daniel Pittman** - *Initial work* - [PurpleBooth](https://github.com/dpdanpittman)
+* **Daniel Pittman** - *Initial work* - [Korn0](https://github.com/dpdanpittman)
 
 See also the list of [contributors](https://github.com/qwoyn/hashkings/contributors) who participated in this project.
 
