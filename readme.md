@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Satoshi Nakamoto 
 * CryptoKitties
 * Open Zeppelin
-* And all you other badasses out there!
+* Opensea.io
