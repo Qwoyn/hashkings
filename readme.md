@@ -1,6 +1,6 @@
-# Project Title
+# HashKings® 
 
-HashKings® is an Ethereum based Crypto Cannabis Farming and Trading Game. 
+An Ethereum Classic based Crypto Cannabis Farming and Trading Game. 
 Purchase seeds and propagate your own indoor or outdoor plants. HashKings® allows you to 
 harvest your plants, dry them and cure the buds. Once finished sell them in our dispensary/marketplace. 
 We made it easy and fun to grow your own crypto weed. Become a hobby grower or work your way to 
