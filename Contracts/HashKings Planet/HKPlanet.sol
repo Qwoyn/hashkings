@@ -1,14 +1,19 @@
 pragma solidity ^0.4.25;
-*****************************************
-*			   HashKings				*
-*										*
-*Grow and Sell Cannabis on the Ethereum *
-*         Classic Blockchain			*
-*										*
-*										*
-* - Daniel Pittman    					*
-*****************************************	
 
+/* 
+	********************
+	- HashKings Planet -
+	********************
+	v1.0
+	
+	Daniel Pittman - Qwoyn.io
+	
+	*Note:
+	*
+	*Holds all the plots from HashKings
+	***********************************
+	
+*/
 
 /**
  * @title SafeMath
@@ -714,9 +719,13 @@ contract HashKingsPlanet is SupportsInterfaceWithLookup, ERC721BasicToken, ERC72
   event BoughtToken(address indexed buyer, uint256 tokenId);
 
   /*** CONSTANTS ***/
-  string public constant company = "Qwoyn";
-  string public constant website = "https://qwoyn.io";
+  string public constant company = "Qwoyn, LLC ";
+  string public constant contact = "https://qwoyn.io";
   string public constant author  = "Daniel Pittman";
+
+  
+  uint8 constant TITLE_MAX_LENGTH = 64;
+  uint256 constant DESCRIPTION_MAX_LENGTH = 100000;
 
   /*** DATA TYPES ***/
 
@@ -725,12 +734,12 @@ contract HashKingsPlanet is SupportsInterfaceWithLookup, ERC721BasicToken, ERC72
   ///   need to use a mapping like: `mapping(uint256 => uint256) tokenTypePrices;`
   uint256 currentPrice = 0;
   
-  mapping(uint256 => string)  tokenNames;	  
+  mapping(uint256 => string)  tokenTitles;	  
   mapping(uint256 => string)  tokenDescriptions;
   
 
-  constructor(string _names, string _symbol) public {
-	names_ = _names;
+  constructor(string _name, string _symbol) public {
+	name_ = _name;
 	symbol_ = _symbol;
 
 	// register the supported interfaces to conform to ERC721 via ERC165
@@ -740,19 +749,25 @@ contract HashKingsPlanet is SupportsInterfaceWithLookup, ERC721BasicToken, ERC72
 
   /// Requires the amount of Ether be at least or more of the currentPrice
   /// @dev Creates an instance of an token and mints it to the purchaser
-  /// @param _type The token type as an integer
+  /// @param _type The token type as an integer, dappCap and slammers noted here.
   /// @param _title The short title of the token
   /// @param _description Description of the token
   function buyToken (
-	string  _name,
+	string  _title,
 	string  _description
   ) public onlyOwner {
+	bytes memory _titleBytes = bytes(_title);
+	require(_titleBytes.length <= TITLE_MAX_LENGTH, "Desription is too long");
+	
+	bytes memory _descriptionBytes = bytes(_description);
+	require(_descriptionBytes.length <= DESCRIPTION_MAX_LENGTH, "Description is too long");
+	require(msg.value >= currentPrice, "Amount of Ether sent too small");
 
 	uint256 index = allTokens.length + 1;
 
 	_mint(msg.sender, index);
 
-	tokenNames[index]        = _name;
+	tokenTitles[index]       = _title;
 	tokenDescriptions[index] = _description;
 
 	emit BoughtToken(msg.sender, index);
@@ -778,10 +793,10 @@ contract HashKingsPlanet is SupportsInterfaceWithLookup, ERC721BasicToken, ERC72
 	external
 	view
 	returns (
-	  string  tokenName_,
+	  string  tokenTitle_,
 	  string  tokenDescription_
   ) {
-	  tokenName_        = tokenNames[_tokenId];
+	  tokenTitle_       = tokenTitles[_tokenId];
 	  tokenDescription_ = tokenDescriptions[_tokenId];
   }
 
@@ -962,5 +977,3 @@ contract HashKingsPlanet is SupportsInterfaceWithLookup, ERC721BasicToken, ERC72
 	allTokens.push(_tokenId);
   }
 }
-
-
