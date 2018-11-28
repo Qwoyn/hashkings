@@ -5,6 +5,12 @@
 "value": "Island"
 }, 
 {
+"display_type": "number", 
+"trait_type": "Land Rating", 
+"value": 10,
+"max_value": 10
+},
+{
 "max_value": 100,	
 "display_type": "boost_percentage", 
 "trait_type": "Water", 
@@ -14,6 +20,12 @@
 "max_value": 100,	
 "display_type": "boost_percentage", 
 "trait_type": "Sunlight", 
+"value": 100
+},
+{
+"max_value": 100,	
+"display_type": "boost_percentage", 
+"trait_type": "Soil Rating", 
 "value": 100
 }
 ],
