@@ -1,0 +1,37 @@
+{
+"attributes": [
+{
+"trait_type": "Climate", 
+"value": "Island"
+}, 
+{
+"display_type": "number", 
+"trait_type": "Land Rating", 
+"value": 10,
+"max_value": 10
+},
+{
+"max_value": 100,	
+"display_type": "boost_percentage", 
+"trait_type": "Water", 
+"value": 100
+}, 
+{
+"max_value": 100,	
+"display_type": "boost_percentage", 
+"trait_type": "Sunlight", 
+"value": 100
+},
+{
+"max_value": 100,	
+"display_type": "boost_percentage", 
+"trait_type": "Soil Rating", 
+"value": 100
+}
+],
+"name": "Afghanistan, AfAA14",
+"description": "6 by 6 Plot in Afghanistan.  36 Plant Max", 
+"externalUrl": "https://www.qwoyn.io", 
+"image": "https://i.imgur.com/rwSngh9.png", 
+"organization": "Qwoyn.io"
+}
