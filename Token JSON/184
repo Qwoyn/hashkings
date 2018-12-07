@@ -1,0 +1,37 @@
+{
+"attributes": [
+{
+"trait_type": "Climate",
+"value": "Tropical"
+},
+{
+"display_type": "number",
+"trait_type": "Land Rating",
+"value": 9.5,
+"max_value": 10
+},
+{
+"max_value": 100,
+"display_type": "boost_percentage",
+"trait_type": "Water",
+"value": 100
+},
+{
+"max_value": 100,
+"display_type": "boost_percentage",
+"trait_type": "Sunlight",
+"value": 95
+},
+{
+"max_value": 100,
+"display_type": "boost_percentage",
+"trait_type": "Soil Rating",
+"value": 90
+}
+],
+"name": "Asia, AsAB12",
+"description": "6 by 6 Plot in Asia.  36 Plant Max",
+"externalUrl": "https://www.qwoyn.io",
+"image": "https://i.imgur.com/ZXB5q3R.png",
+"organization": "Qwoyn.io"
+}
