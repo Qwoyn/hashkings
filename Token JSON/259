@@ -2,7 +2,7 @@
 "attributes": [
 {
 "trait_type": "Climate",
-"value": "Tropical"
+"value": "Mild"
 },
 {
 "display_type": "number",
@@ -29,9 +29,9 @@
 "value": 90
 }
 ],
-"name": "Asia, AsAB26",
-"description": "6 by 6 Plot in Asia.  36 Plant Max",
+"name": "Central America, SaAB17",
+"description": "6 by 6 Plot in Central America.  36 Plant Max",
 "externalUrl": "https://www.qwoyn.io",
-"image": "https://i.imgur.com/ZXB5q3R.png",
+"image": "https://i.imgur.com/9qvriqc.png",
 "organization": "Qwoyn.io"
 }

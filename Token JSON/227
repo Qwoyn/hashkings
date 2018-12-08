@@ -2,7 +2,7 @@
 "attributes": [
 {
 "trait_type": "Climate",
-"value": "Savanna"
+"value": "Temperate"
 },
 {
 "display_type": "number",
@@ -29,9 +29,9 @@
 "value": 90
 }
 ],
-"name": "Africa, AfAB31",
-"description": "6 by 6 Plot in Africa.  36 Plant Max",
+"name": "Mecxio, MxAB20",
+"description": "6 by 6 Plot in Mexico.  36 Plant Max",
 "externalUrl": "https://www.qwoyn.io",
-"image": "https://i.imgur.com/ZohrL4N.png",
+"image": "https://i.imgur.com/DUdZvZg.png",
 "organization": "Qwoyn.io"
 }
