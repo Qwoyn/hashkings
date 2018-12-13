@@ -1,0 +1,96 @@
+# HashKings®
+
+![hashkings_logo.png](https://cdn.steemitimages.com/DQmbJ1VzPmWMki5KHCsWEmU5XRMqmigXksYjtUV7VHf8hHm/hashkings_logo.png)
+
+HashKings® is an Ethereum based Crypto Cannabis Farming and Trading Game. Purchase seeds and propagate your own indoor or outdoor plants. HashKings® allows you to harvest your plants, dry them and cure the buds. Once finished sell them in our dispensary/marketplace. We made it easy and fun to grow your own crypto weed. Become a hobby grower or work your way to Cannabis Connoisseur by using top of the line nutrients and grow equipment available in our marketplace.
+
+# Educational
+HashKings® is not only fun but also an educational tool. We have compiled decades of Cannabis data in order to provide you with the most realistic experience. This includes learning how to grow in soil and hydro, cloning your plants and mothering. We have also included the breeding and harvesting processes. As the legalization of cannabis continues to take hold all over the world it is important for everyone to become familiar with the process and know the differences between organic and non-organic growing methods. As HashKings® grows and features are added we will also add more tutorials and resources for growing your own cannabis at home under legal conditions. *State Laws Apply
+
+## Game Assets
+HashKings has many assets to choose from. Our assets vary between characters and grow equipment for personalizing your growing experience.
+
+### Characters
+Choose a character and visit our marketplace to buy a wide variety of Cannabis Products.
+
+### Cannabis
+The Cannabis Group includes all the stages of growth from Seeds to Buds. We have made it possible for you to create your own hash, shatter and wax which are included in this group.
+
+### Resources
+We have provided many resources for users to grow Crypto Cannabis. Choose from a different soil mediums, nutrients, lights and much more included in the Resources Group to fine tune your crops needs.
+
+### HashKings Planet
+For our Outdoor Grows we have designed an entire Blockchain Ecosystem complete with all the best growing regions on Earth.
+
+## Gameplay
+HashKings® allows for many options when it comes to growing Pot, indoor using hydroponic systems, soil or other mediums. Customize your feeding/watering schedule or let us take care of most of the work and grow in the Qwoyn Nursery.
+
+This game is based on actual strains and are dependent on the care they receive. Not watering your plant? Your plant may die if you go that route. Give your plant lots of love, good nutrients and plenty of water and watch it grow in to a beautiful and healthy tree.
+
+When you first log in to the game you will want to head to the Qwoyn dispensary and purchase yourself some seeds from a collection of Landrace Sativa or Indica. Once you have acquired a minimum of one seed you can begin to grow using Qwoyns Nursery. The duration of growing your plant from seed to sale is 12 to 24+ weeks. Don’t worry, we have chosen to speed up time for this game which means 1 Day in real life is equal to 1 week in-game. This means that it won’t take more than a month to harvest.
+
+Growing Cannabis can be very complicated for beginners so we have made it easier for anyone with little knowledge to get started.
+
+Our gardeners in Nursery Mode will provide your plant with the required amount of Qwoyn Veg/Flowering nutrients, prune, train and care for your plant. You only pay gas to water it twice a week. Once your plant is ready for harvest our professionals will trim, dry and cure your buds.
+
+![hashkings_banner_logo.png](https://cdn.steemitimages.com/DQmeBGSTACrwL24BcH7GraLJF9aEGEAVDXzHMMZ8CaS2s2Y/hashkings_banner_logo.png)
+
+**Find the Basic Gameplay for Modes below.**
+
+Nursery Mode
+
+Connoisseur Mode
+
+
+## Basics
+### Rewards and Achievements
+
+To work your way up to HashKing you will need to complete several Achievements and earn Rewards and Badges. We have Broken it down in to 5 Levels.
+
+### Death and Expiration
+
+Almost every item has an expiration date or limited amount of uses. This means for example if you purchase a bottle of nutrients it only has ~10 uses. Once you have used the item the maximum amount of times you can recycle it or keep it as a souvenir (Keep in mind, storing garbage in your grow room can be hazardous). The same concept goes for lights, fans and soil etc..
+
+Weed is a plant and when growing weed in the garden things can happen, bugs may invade your crop or mold may take over and this may cause your plant to die. Yes, your token may be in jeopardy of being deemed useless if you join the ranks of Connoisseur Mode and don’t tend to your plants properly. Don’t worry though we have provided you with all the necessary resources and a fool proof guide* to growing healthy bug free cannabis every time, just follow the instructions. *see our website for growing guides
+
+You may encounter Insects attacking your plants, mold, root rot and a list of other hazards when growing indoor. The frequency of this depends on a few different factors. First we assign you a gardner Rating which will be represented as a percentage. This number starts at 100 Percent for every new grower and can fluctuate from there, never exceeding 100 percent and never dropping below 0%. If you reach 0% you will start over again at 100 percent. The easiest way to keep your rating at 100% is to keep your Grow Room or Nursery Inventory clean. Please recycle used up resources and broken equipment. The closer you can ride the line to our guide the less your percentage drops. Be a good responsible gardner and you will be just fine.
+
+### Marketplace
+
+When users log on to the dApp they will want to visit our Marketplace and purchase characters, seeds and other cannabis products. If the user already owns some of the items then they may also use the Marketplace to sell their purchased game assets.
+
+### Growing
+
+After purchasing seeds or clones users may choose to either plant their newly acquired products or propagate them using our Nursery or Indoor techniques. We have outlined the growing styles below beginning with Nursery Crops
+
+#### Nursery Mode
+Allows the user to spend less tending to their plants. Allow our gardners to take care of most of it for you. We have pre determined grow cycles which include our special mix of nutrients and professional care. Seedlings, Veg Plants and Flowering Plants cannot be sold once in the nursery. You may however take clones and propagate them as long as you own a Cloning Kit.
+
+#### Indoor/Outdoor
+Allows for greater margins of error. This is for pros only, your plant CAN DIE at any point in this process. Forget to water it? Your plant may not recover. Did you forget to move the lights up? Oops, your plant may burn. How about the light cycle? Are you keeping the lights at 16 and 8 during veg? If you answered no, then your plant may start flowering early. Watering your plant may also not be enough. Make sure to visit the marketplace to purchase nutrients so you can grow a strong and healthy plant.
+
+As the plant grows you are in charge of its health and in charge of the cleanliness of your grow room among other factors which means not all plants will be created equal. Your blue dream might end up better than others because you may have decided to feed it properly and not skip any days.
+
+### Sexing
+
+When your plant reaches maturity and is ready for flowering you will notice a change in the nodes of the plants branches. You may notice little clusters of grapes or beautiful calyx forming. This is how you tell the sex of your plant. If you see grapes you have a male plant and if you see calyx then you have a female.
+
+### Breeding
+
+Looking to make your own cannabis cup winning strain? Use pollen from either your own male plant or purchase pollen in the marketplace and spread it on your flowering female plant. After a few weeks you will have your own seeds.
+
+Qwoyn HashKings®® is selling 1000 seeds each of the 16 Landrace strains we have available for $5 per seed . As more strains come are discovered we will also sell 1000 seeds of those. After that, the only way to get seeds will be through breeding. To find out more about Landrace Strains please visit https://www.leafly.com/news/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain.
+
+### Equipment Sales
+
+Qwoyn HashKings® will be selling nutrients and indoor grow equipment for various fixed prices* in our online marketplace for continued grow operation support. *See our website for a complete list of prices
+
+### Marketplace Percentage
+
+Qwoyn will receive 2.5% of individual sales of assets on our marketplace.
+
+### HashKings Planet Land Sales
+
+For those professional outdoor growers we are providing prime real estate for your growing needs. We are selling 6 by 6 plots of land in all the various regions of the earth from Afghanistan to Jamaica. Landraces won’t just grow in any outdoor conditions if you are trying to grow an African strain in the Mountains it may not work out so well. For this reason we allow everyone to purchase the correct property for the correct strain. Each plot of land allows for 36 plants to be grown.
+
+**Join** the conversation at [Discord](https://discord.gg/HddQC59)
