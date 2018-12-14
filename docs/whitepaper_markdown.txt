@@ -2,7 +2,7 @@
 
 ![hashkings_logo.png](https://cdn.steemitimages.com/DQmbJ1VzPmWMki5KHCsWEmU5XRMqmigXksYjtUV7VHf8hHm/hashkings_logo.png)
 
-HashKings® is an Ethereum based Crypto Cannabis Farming and Trading Game. Purchase seeds and propagate your own indoor or outdoor plants. HashKings® allows you to harvest your plants, dry them and cure the buds. Once finished sell them in our dispensary/marketplace. We made it easy and fun to grow your own crypto weed. Become a hobby grower or work your way to Cannabis Connoisseur by using top of the line nutrients and grow equipment available in our marketplace.
+HashKings® is an Steem based Crypto Cannabis Farming and Trading Game. Purchase seeds and propagate your own indoor or outdoor plants. HashKings® allows you to harvest your plants, dry them and cure the buds. Once finished sell them in our dispensary/marketplace. We made it easy and fun to grow your own crypto weed. Become a hobby grower or work your way to Cannabis Connoisseur by using top of the line nutrients and grow equipment available in our marketplace.
 
 # Educational
 HashKings® is not only fun but also an educational tool. We have compiled decades of Cannabis data in order to provide you with the most realistic experience. This includes learning how to grow in soil and hydro, cloning your plants and mothering. We have also included the breeding and harvesting processes. As the legalization of cannabis continues to take hold all over the world it is important for everyone to become familiar with the process and know the differences between organic and non-organic growing methods. As HashKings® grows and features are added we will also add more tutorials and resources for growing your own cannabis at home under legal conditions. *State Laws Apply
@@ -79,7 +79,9 @@ When your plant reaches maturity and is ready for flowering you will notice a ch
 
 Looking to make your own cannabis cup winning strain? Use pollen from either your own male plant or purchase pollen in the marketplace and spread it on your flowering female plant. After a few weeks you will have your own seeds.
 
-Qwoyn HashKings®® is selling 1000 seeds each of the 16 Landrace strains we have available for $5 per seed . As more strains come are discovered we will also sell 1000 seeds of those. After that, the only way to get seeds will be through breeding. To find out more about Landrace Strains please visit https://www.leafly.com/news/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain.
+### Seed Sales
+
+Qwoyn HashKings® is selling 1000 seeds each of the 16 Landrace strains we have available for $5 per seed . As more strains come are discovered we will also sell 1000 seeds of those. After that, the only way to get seeds will be through breeding. To find out more about Landrace Strains please visit https://www.leafly.com/news/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain.
 
 ### Equipment Sales
 
