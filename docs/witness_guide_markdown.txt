@@ -1,0 +1,62 @@
+# Petition to change witness list
+**Here at Qwoyn HashKings® we care about the stability of this blockchain and would like to take this opportunity to petition the community.**
+
+>We would like to have Disabled Witnesses removed from the [witness list](https://smoke.io/~witnesses) after  48 hours of being disabled!
+
+_*That being said here is a small guide to help you make the best decision when voting for a witness*_. 
+
+---
+
+# Choosing a Witness
+
+I know many of you would love to see your Smoke friends become the highest voted witness and I know you would support members of your community to the end.  However, voting for a witness is not a popularity contest! Here are some of the things to look for when casting your valuable vote.
+
+## Blockchain Experience 
+
+How long has the petitioner been involved in blockchain technology specifically in the consensus realm.  Do they have any experience with proof-of-work, proof-of-stake, masternodes and delegated proof-of-stake? How much experience do they have with each of the above and do they understand the power of delegated proof-of-stake?
+
+## Computer Experience 
+
+Running a node is not about just installing a program on your laptop and shooting for the moon.  Reliable witness nodes need system administrators well versed in networking hardware and DevOps. How many years of experience and what competency level does the witness node operator possess? 
+
+## Dedication
+
+How passionate is the witness about blockchain technology?  Are they involved because they see the future potential of decentralized applications and blockchain economies or are they looking to go to the moon? How much time and effort are they willing to put forth in order for their witness to continue producing blocks.  Are they dedicated to the ecosystem and do they want to hold Smoke/Steem Power or are they here just to make a quick buck?
+
+## Choose Wisely
+
+Before voting, please ask yourselves the above questions and take a minute to think about who you will give your vote to!  
+
+---
+
+# HashKings® Witness
+
+Every blockchain needs trusted nodes and every community needs strong community members/leaders.  Qwoyn HashKings® is each of those.  We can provide stability within the network and form a mutually beneficial relationship on this Blockchain.
+
+Our Blockchain knowledge is extensive and reaches back as far as the very beginnings of Bitcoin. Experienced in all of the major consensus protocols we see the power of Delegated Proof-of-stake with its lightning fast transaction speeds and environment friendly algorithms. 
+
+DevOps is the name of the game and making sure trusted nodes stay online is one of the most important tasks of our witness.  We not only have snapshots and backups but we are also using 2 servers in case one of them fails to produce blocks properly.  Our witness is secure and operational 24/7! 
+
+Our dedication to blockchain is obvious in the fact that we are rely on it to run the HashKings® Planet Ecosystem.  Without a stable network and trusted nodes we will not be able to give you the best possible gaming experience.  This gives us incentive for continued dedication to the blockchain. We will actively support the community by holding a majority of our Smoke/Steem Power only powering down in order to pay for our team and cover operating costs. 
+
+### Specs / Producing Blocks
+
+![qwoyn_hashkings_witness_specs.png](https://i.imgur.com/mRNqEEV.png)
+
+![qwoyn_hashkings_witness_blocks.png](https://i.imgur.com/D0e8Ryj.png)
+
+
+#### Please let me know what other information you would like to see. 
+---
+
+![hashkings_smoke_io.png](https://smoke.io/imageupload_data/f55ea9ca6aab026a4a8052c19339021dae489b38)
+
+***Thank you for reading and please [Vote hashkings](https://smoke.io/~witnesses) for Witness and help us strengthen this community.***
+
+Much love and stay stoned! Hope to see you around the [Discord Server](https://discord.gg/HddQC59) 
+
+#qwoyn
+#hashkings
+#witness
+#voting
+#guide
