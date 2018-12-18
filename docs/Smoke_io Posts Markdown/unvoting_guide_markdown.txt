@@ -1,0 +1,37 @@
+# Taking an active role
+
+
+Being part of the Smoke.io community means taking an active role and participating in Witness voting or unvoting.  You don't have to be a coder or DevOps Professional in order to help keep our Blockchain stable.  
+
+***All you have to do is visit the [Witness Page](https://smoke.io/@hashkings) and vote!***
+
+---
+
+# Voting is not the only important part
+<br/>
+### Please Unvote!
+
+This might be more important than voting for witnesses.  There are no term limits in this economy and its up to you to decide who stays who goes and when!  ***Your vote does matter*** and we need you to ***Unvote Disabled Witness Nodes!***
+
+_We recommend Unvoting any nodes you have voted for which are disabled for more than ***48 hours.***_
+
+This should give any competent system admin enough time to solve any issues with their node.  Smoke.io has many tools and guides available and there is ***No Excuse*** for someones node to be disabled for longer than 48 hours.
+
+_Again I highly stress,_ 
+
+### _Your [Unvote](https://smoke.io/@hashkings) is very powerful and we need you to exercise that power!_
+
+<center>![divider.png](https://smoke.io/imageupload_data/ee12bc223b16e8b3b16671dc95795f597b986400)</center>
+
+<center><a href="https://steemit.com/@hashkings"><img src="https://steemitimages.com/200x150/https://cdn.discordapp.com/attachments/522524852670693386/523358764917719051/Picture_20181214_234009965.jpg"/></a></center>
+
+## <center>Proud Member and Sponsor of</center> 
+<center><a href="https://steemit.com/@canna-curate"><img src="https://smoke.io/imageupload_data/5ebeec1b9245b656ee17b37e8d8d7611615a82ba"/></a></center>
+
+---
+
+#qwoyn
+#hashkings
+#witness
+#voting
+#unvoting
