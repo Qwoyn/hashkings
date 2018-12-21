@@ -1,0 +1,32 @@
+- Project Name: ***HashKings :registered:,*** **Crypto Cannabis Farming and Planet Ecosystem**
+
+- Display Name: ***HashKings*** :registered:
+
+- Description: ***HashKings*** :registered: **is a Steem based Crypto Cannabis Farming and Trading Game. Purchase seeds and propagate your own indoor or outdoor plants. HashKings:registered: allows you to harvest your plants, dry them and cure the buds. Once finished sell them in our dispensary/marketplace. We made it easy and fun to grow your own crypto weed. Become a hobby grower or work your way to Cannabis Connoisseur by using top of the line nutrients and grow equipment available in our marketplace.**
+
+- Image: https://i.imgur.com/aDDEpiF.png
+
+- Website Link: https://qwoyn.io
+
+- Social Data: (Optional)
+- https://discord.gg/HddQC59
+- https://twitter.com/qwoyn
+- https://smoke.io/@hashkings
+- https://medium.com/@danpittman_41978/
+
+- What is the status of the project? **Alpha**
+
+- What fits best? **NFT Collectibles Game**
+
+- What is the main category you'd put it in? **Open World Farming Simulator**
+
+- What are different tags you'd put it under? **#cannabis #nft #collectibles #gaming**
+
+- Does your app uses custom_json? **Yes (hk) **
+
+Next up, please submit **All accounts** you have, with the following questions answered: **@qwoyn**
+
+- Does your account receive transfers in STEEM or SBD? **Both**
+- Is your account being used as an interface? What's the meta data name? **Will not be used as the interface**
+- Does your account vote with steempower for curation? **Yes**
+- Is your account being used for benefactor rewards? **Yes**
