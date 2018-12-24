@@ -1,36 +1,12 @@
 "attributes": [
 {
-"trait_type": "Climate",
-"value": "Savannah"
-},
-{
-"display_type": "number",
-"trait_type": "Land Rating",
-"value": 9.5,
-"max_value": 10
-},
-{
-"max_value": 100,
-"display_type": "boost_percentage",
-"trait_type": "Water",
-"value": 100
-},
-{
-"max_value": 100,
-"display_type": "boost_percentage",
-"trait_type": "Sunlight",
-"value": 95
-},
-{
-"max_value": 100,
-"display_type": "boost_percentage",
-"trait_type": "Soil Rating",
-"value": 90
+"trait_type": "Campaign Winner",
+"value": "Hashkings 2nd Place"
 }
 ],
-"name": "Africa, AfrAB32",
-"description": "6 by 6 Plot in Africa.  36 Plant Max",
+"name": "Indoor Starter Kit, HashKings Planet",
+"description": "Hashkings 2nd Place Campaign Prize",
 "externalUrl": "https://www.qwoyn.io",
-"image": "https://i.imgur.com/ZohrL4N.png",
+"image": "https://i.imgur.com/rMQFlIj.png",
 "organization": "Qwoyn.io"
 }
